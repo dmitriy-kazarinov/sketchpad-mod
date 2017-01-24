@@ -1,6 +1,6 @@
 {
   "name": "sketchpad-mod",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple sketchpad project for drawing, saving and recovering picture easily",
   "main": "index.js",
   "scripts": {
