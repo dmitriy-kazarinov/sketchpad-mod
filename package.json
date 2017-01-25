@@ -1,6 +1,6 @@
 {
   "name": "sketchpad-mod",
-  "version": "1.0.7",
+  "version": "1.1.3",
   "description": "A simple sketchpad project for drawing, saving and recovering picture easily",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "sketchpad"
   ],
   "author": "Dmitry Dulin <dulin.developer@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dulin666/sketchpad-mod/issues"
   },
