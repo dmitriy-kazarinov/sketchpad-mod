@@ -2,7 +2,7 @@
 SketchpadMod this is a simple sketchpad project for drawing, saving and recovering picture easily.
 [![NPM](https://nodei.co/npm/sketchpad-mod.png?downloads=true)](https://nodei.co/npm/sketchpad-mod/)
 
-## Instalation
+## Installation
 Use npm:
 ```
 npm install sketchpad-mod --save
