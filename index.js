@@ -126,9 +126,9 @@ SketchpadMod.prototype._mouseMove = function(event) {
 
 SketchpadMod.prototype._touchStart = function(event) {
   event.preventDefault();
-  if (this._sketching) {
-    return;
-  }
+  // if (this._sketching) {
+  //   return;
+  // }
   this._lastPosition = this._cursorPosition(event.changedTouches[0]);
   this._currentStroke.color = this.color;
   this._currentStroke.size = this.penSize;
